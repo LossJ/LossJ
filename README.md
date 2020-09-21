@@ -1,7 +1,9 @@
 ### Hi there 👋  
   
-- 🤗 I am Loss J, an NLP scholar.  
-- 🌱 I like to share the knowledge of machine learning and NLP, and I have opened courses in Bilibili. I put the source code in my github repository, I hope it will be helpful to your study or work, and I am here waiting for your questions.💕   
+- 🤗 I am Loss J, an NLP scholar.   
+- 🌱 I like to share the knowledge of machine learning and NLP, and I have opened courses in <a href="https://space.bilibili.com/161784330" target="_blank">Bilibili</a>.  
+- 💕 Some source codes are uploaded to my github repository, I hope it will be helpful to your study or work, and I am here waiting for your questions.  
+- 📫 You can send an email to lossj@qq.com for problems that are difficult to describe briefly.
 <!--
 **LossJ/LossJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
